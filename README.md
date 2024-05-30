@@ -40,7 +40,7 @@ flutter drive --driver=test_driver/integration_test.dart --target=integration_te
 - **Password**: 123456
 
 ## Demo:
-[![demo](https://drive.google.com/file/d/1fMBdTkIMANxMEELCWi9DBgqivdCerE6m/view?usp=sharing)](https://drive.google.com/file/d/1fMBdTkIMANxMEELCWi9DBgqivdCerE6m/view?usp=sharing)
+[![DEMO]({https://github.com/Jainakin/Busha-Assignment/blob/main/assets/images/demo.png})]({https://drive.google.com/file/d/1fMBdTkIMANxMEELCWi9DBgqivdCerE6m/view?usp=sharing} "DEMO")
 
 ## APK
 Find the release mode apk in APK folder.
